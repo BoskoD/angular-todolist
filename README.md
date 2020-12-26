@@ -29,5 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Resource
 
-Repo - https://github.com/bradtraversy/angular-crash-todolist
-YT- https://www.youtube.com/watch?v=Fdf5aTYRW0E
+Pulling data from https://jsonplaceholder.typicode.com/
