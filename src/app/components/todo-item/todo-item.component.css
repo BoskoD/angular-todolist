@@ -2,7 +2,7 @@
     background: #808080;
     color: #fff;
     border: none;
-    padding: 5px 9px;
+    padding: 1px 9px;
     border-radius: 50%;
     cursor: pointer;
     float: right;
@@ -10,10 +10,10 @@
   
   .todo {
     background: #f4f4f4;
-    padding: 10px;
+    padding: 4px;
     border-bottom: 1px #ccc dotted;
   }
   
   .is-complete {
-    text-decoration: line-through;
+    background-color: #acff89
   }
